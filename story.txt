@@ -1,1 +1,7 @@
 There is guy whose name is Mark. Mark is a CS student. Student majoring in computer science must take CS400. 400 is a hard class Mark said to himself everyday. Everyday Mark has to working CS400, either HW or programs. Program this week is about RBT. RBT is BRUTAL.
+
+One day, Mark decided enough was enough. After class, Mark asked his professor
+for assistance. She was very king and helpful, and suggested that if he ever
+needs additional help he can ask the TAs as they are more likely to have spare
+time to help. From then on, whenever Mark got even a little confused, he would
+ask the TAs and they would manage to help him every time.
